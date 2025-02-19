@@ -16,8 +16,15 @@ Make sure a csv is in the project folder.
 Run loan_underwriting.py to train and test the model.
 Check the output for accuracy scores and model performance.
 
-Next Steps:
+Future Additions:
 -Improve predictions with more examples of real-world lending data
 -Add fraud detection features
 -Develop a full SaaS platform for mortgage lenders
 -This is an ongoing project aimed at making loan underwriting smarter, faster, and more reliable.
+
+Tech Stack:
+-Python
+-Pandas: Data handling and preprocessing
+-NumPy: Numerical computations
+-Scikit-Learn: Machine learning models (Logistic Regression, Random Forest, SVM)
+-XGBoost: For better predictive performance
