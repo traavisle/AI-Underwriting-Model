@@ -1,0 +1,15 @@
+# Ignore system files
+.DS_Store
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore CSV files
+*.csv
